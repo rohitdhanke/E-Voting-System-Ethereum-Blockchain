@@ -14,6 +14,9 @@ By using metamask, I cast the vote from one account only, If I tried the multipl
 		build/contracts/	contains Election and Migration json files
 		contracts/		contains Election.sol and Migration.sol contracts
 		migrations/		contains migration files wich is similar other web development frameworks that require migrations to change the state of a database.
+		src/			contains all client side folder and files like JS, CSS, Font, Images, HTML .
+		test/			contains tests files for our smart contracts.
+		truffle-config.js /	contains main configuration file for our Truffle project
 
 
 ### Dependencies requirements :-
