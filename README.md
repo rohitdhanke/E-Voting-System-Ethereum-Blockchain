@@ -19,7 +19,7 @@ By using metamask, I cast the vote from one account only, If I tried the multipl
 		truffle-config.js /	contains main configuration file for our Truffle project
 
 
-### Dependencies requirements :-
+### DEPENDENCIES :-
 
 1. Node Package Manager(NPM):- We required this dependency. You can download Node.js or by using following command you can install npm.
 
@@ -41,7 +41,7 @@ By using metamask, I cast the vote from one account only, If I tried the multipl
 								Ethereum blockchain with our personal account.To install Metamask, search for the Metamask Chrome plugin in the Google Chrome web store.
 								
 
-### Execution Process :- 
+### EXECUTION PROCESS :- 
 
 * We assign our smart contract to a variable called "Election". We add it to the manifest of deployed contracts to ensure that it gets deployed when we run the migrations. Now let's run our migrations from the command line like this:
 
@@ -60,8 +60,4 @@ After running above command new browser window onen automatically with client-si
 If the browser shows the Loading... then its indicates that we do not connect blockchain yet. We need to connect blockchain using ganache and import one account
 from ganache.
 Now we can vote on our client side application and the casted vote is displayed in front of the candidates name.
-
-# Features
-* In this repository you will find all the prerequisites like Truffle dependency which allows us to build decentralised application on the Ethereum Blockchain. It provides a suite of tools that allow us to write smart contracts with the solidity programming language. It also enables us to deploy them to the blockchain. It also provides us a platform to develop our client side application.
-* You just need to focus on your business logic that is smart contracts.
 
