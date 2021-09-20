@@ -9,6 +9,11 @@ In this project I build a client side application that will connect to the smart
 and votes. We can cast a code for specific candidate by using account that we are connected to the blockchain.
 By using metamask, I cast the vote from one account only, If I tried the multiple votes from one account it will show me error.
 
+### DIRECTORY STRUCTURE
+
+		build/contracts/	contains Election and Migration json files
+
+
 ### Dependencies requirements :-
 
 1. Node Package Manager(NPM):- We required this dependency. You can download Node.js or by using following command you can install npm.
