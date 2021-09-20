@@ -1,9 +1,11 @@
 # E-Voting-System-Ethereum-Blockchain
 
 
-This PoC has E-Voting System application in Ethereum.
+This project has E-Voting System application in Ethereum. This project has feature like you can count a vote between two or many candidates using your account from ganache with metamask. Here we made a system like everyone can vote using only one account. If you tried to vote again using same account then it will restrict. Here we provide the prerequisites like truffle. Truffle can provide you to handle frontend part and also provide tools to make smart contract. And In this project we achieve the functionality of E-Voting system by using truffle and other applications which are mentioned below.
 
-In this PoC I build a client side application that will connect to the smart contract. This application have the candidate id, name
+Anyone can used this project and work on that project. You just need to install following prerequisites and run it.
+
+In this project I build a client side application that will connect to the smart contract. This application have the candidate id, name
 and votes. We can cast a code for specific candidate by using account that we are connected to the blockchain.
 By using metamask, I cast the vote from one account only, If I tried the multiple votes from one account it will show me error.
 
@@ -50,6 +52,6 @@ from ganache.
 Now we can vote on our client side application and the casted vote is displayed in front of the candidates name.
 
 # Features
-* In this repo you will find all the prerequisites like Truffle dependency which allows us to build decentralised application on the Ethereum Blockchain. It provides a suite of tools that allow us to write smart contracts with the solidity programming language. It also enables us to deploy them to the blockchain. It also provides us a platform to develop our client side application.
+* In this repository you will find all the prerequisites like Truffle dependency which allows us to build decentralised application on the Ethereum Blockchain. It provides a suite of tools that allow us to write smart contracts with the solidity programming language. It also enables us to deploy them to the blockchain. It also provides us a platform to develop our client side application.
 * You just need to focus on your business logic that is smart contracts.
 
