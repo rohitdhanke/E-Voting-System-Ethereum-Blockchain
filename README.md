@@ -37,7 +37,7 @@ By using metamask, I cast the vote from one account only, If I tried the multipl
 							Framework website. It will give us 10 external accounts with addresses on our local Ethereum blockchain.
 							
 		https://www.trufflesuite.com/ganache
-6. Metamask :- Metamask is the google chrome extension. We need to connect metamask for use blockchain. By using this we will able to connect our local 
+6. Metamask :- Metamask is the browser extension. We need to connect metamask for use blockchain. By using this we will able to connect our local 
 								Ethereum blockchain with our personal account.To install Metamask, search for the Metamask Chrome plugin in the Google Chrome web store.
 								
 
