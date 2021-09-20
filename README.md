@@ -13,8 +13,7 @@ By using metamask, I cast the vote from one account only, If I tried the multipl
 
 		build/contracts/	contains Election and Migration json files
 		contracts/		contains Election.sol and Migration.sol contracts
-		migrations/		contains migration files wich is similar other 
-					web development frameworks that require migrations to change the state of a database.
+		migrations/		contains migration files wich is similar other web development frameworks that require migrations to change the state of a database.
 
 
 ### Dependencies requirements :-
